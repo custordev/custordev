@@ -1,6 +1,6 @@
 # Hi I'm Custordev <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" alt="waving hand" width='75' height='75'/>
 
-I’m a full stack Developer with a passion for building visually stunning and impactful applications using some of the technologies i have . I love solving problems using code, but I also enjoy working on Projects and  through my [portfolio]((https://custor-dev.vercel.app/)) you can get intouch with Me .
+I’m a full stack Developer with a passion for building visually stunning and impactful applications using some of the technologies i have . I love solving problems using code, but I also enjoy working on Projects and  through my [portfolio](https://custordev.com/)) you can get intouch with Me .
 
 With all my projects that I take on, I bring high value skills and  a mission accomplishment mindset stemming from time to time, Are you ready to tackle big tech challenges together? Let's go, I'm ready to build and collaborate.
 
